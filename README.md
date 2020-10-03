@@ -1,0 +1,2 @@
+# Loan App
+This app is used to calculate loan. You will enter `Loan Amount`, `Interest` and `Years To Repay` then the loan calculator will calculate `Monthly Payment`, `Total Payment` and `Total Interest` for you. If `Monthly Payment` is not finite then it will display the error on the top of the card.
