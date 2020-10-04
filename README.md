@@ -5,7 +5,7 @@ This app is used to calculate loan. You will enter `Loan Amount`, `Interest` and
 
 # How To Run
 1. `git clone https://github.com/lamkimphu258/loan-app`
-2. `cd loan-ap`
+2. `cd loan-app`
 3. `chmod +x run.sh`
 4. `./run.sh`
 
